@@ -1,1 +1,1 @@
-# online_age
+It calculates the user’s mental age by making them solve some basic IQ based questions upon which their mental age is determined. With the help of this test we PREVENT children from creating fake accounts and accessing contents which are supposed to be age restricted. Hence we are able to segregate children from adults and provide them with age appropriate content. Also we would be able to implement certain restrictions upon them and monitor their online activity. 
