@@ -1,0 +1,41 @@
+h3 {
+	font-style:Arial bold;
+	font-color:white;
+}
+.qq{
+	width: 450px;
+  margin: 45px auto;
+}
+
+.zz{
+	width: 450px;
+  margin: 45px auto;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 00px 00px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.button 
+{background-color: #e7e7e7; color: black;}
+.button 
+{font-size: 16px;}
+.button 
+{padding: 14px 40px;}
+.button
+{border-radius: 12px;}
+.button {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #000; /* Green */
+    color: white;
+}
